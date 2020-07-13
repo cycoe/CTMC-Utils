@@ -1,0 +1,8 @@
+** Plotter
+The plot utility to help with visualizing the results.
+*** Color
+A infinite color generator with given color set.
+*** Style
+Basic plot style class, only involving basic plotting style.
+*** Plotter
+Derived class from Style, directly handle plotting process.

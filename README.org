@@ -1,6 +1,8 @@
 ** Introduction
 This repository is a utility set for /Toast Master Meeting/.
 ** Structures
+#+NAME: Structure of this Project
+[[file:structure_diagram.png]]
 ** Installation
 ** Usages
 ** Contributors
